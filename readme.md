@@ -4,6 +4,8 @@
 2. Start `renamer.sh` to replace all `hello` with your app name and `alikhil/go-server-template` with your repo name
 3. Enjoy
 
+**Be careful! renamer.sh also updates git configs!**
+
 ## Features
 
 - Logging
