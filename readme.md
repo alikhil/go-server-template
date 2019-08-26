@@ -1,9 +1,8 @@
 # Simple HTTP server application template
 
 1. Clone
-2. Replace `alikhil/go-server-template` with your repo name
-3. Start `renamer.sh` to replace all `hello` with your app name
-4. Enjoy
+2. Start `renamer.sh` to replace all `hello` with your app name and `alikhil/go-server-template` with your repo name
+3. Enjoy
 
 ## Features
 
