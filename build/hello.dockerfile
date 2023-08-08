@@ -11,7 +11,7 @@ WORKDIR /app/cmd/hello
 RUN CGO_ENABLED=0 GOOS=`go env GOHOSTOS` GOARCH=`go env GOHOSTARCH` go build -o hello
 
 
-FROM alpine:latest
+FROM alpine:3.18.3
 
 WORKDIR /
 
